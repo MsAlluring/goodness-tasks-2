@@ -1,0 +1,62 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(24, 9, 78);
+}
+
+.total-div {
+    margin: 5vh auto;
+    width: 80%;
+    min-width: 800px;
+    height: 100%;
+}
+
+.header img {
+    border: 2px solid rgb(24, 9, 78);
+    width: 100px;
+    float: right;
+    top: 0px;
+}
+
+h1 {
+    text-align: center;
+    color: rgba(252, 249, 249, 0.979);
+}
+
+h3 {
+    color: rgba(252, 249, 249, 0.979);
+}
+
+.contact {
+    text-align: left;
+    line-height: 5px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.container {
+    display: flex;
+}
+
+.reference {
+    padding-top: 10px;
+}
+
+.sidebar {
+    margin: 0px;
+    padding: 50px;
+    background-color: rgb(206, 4, 4);
+    left: 0;
+    width: 40%;
+    font-size: 0.9em;
+    text-align: left;
+}
+
+.main {
+    width: 60%;
+    padding-left: 10px;
+}
