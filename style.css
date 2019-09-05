@@ -60,3 +60,72 @@ h3 {
     width: 60%;
     padding-left: 10px;
 }
+
+.f-col {
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+#f-name {
+    font-size: 18px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#l-name {
+    font-size: 18px;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+#title {
+    font-size: 18px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.email {
+    text-align: center;
+}
+
+#email {
+    font-size: 18px;
+    padding: 10px;
+    margin-top: 2px;
+    width: 46.1%;
+}
+
+.message {
+    text-align: center;
+    margin-top: 24.2px;
+    padding: 10px;
+}
+
+#message {
+    width: 48.5%;
+}
+
+.submit {
+    text-align: center;
+}
+
+#submit {
+    font-size: 18px;
+    background-color: rgb(24, 9, 78);
+    color: rgba(252, 249, 249, 0.979);
+    border-color: white;
+    border: none;
+    padding: 16px 32px;
+    margin-top: 20px;
+}
+
+.contact-form {
+    background-color: rgb(24, 9, 78);
+    padding-right: 25px;
+    padding-bottom: 10px;
+    width: 98%;
+    text-align: center;
+    margin: 0;
+    color: rgba(252, 249, 249, 0.979);
+}
